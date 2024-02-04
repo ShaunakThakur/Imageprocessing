@@ -1,1 +1,1 @@
-This is a python code for Bilateral Smoothing performed on a Noisy Image
+This is a python code for Linear And Non-Linear Smoothing performed on a Noisy Image
